@@ -12,3 +12,6 @@
 
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40V2RAYROZ
+
+
+vless://31b77383-79f0-4cfa-9cfe-30e6a1d2c6f3@www.speedtest.net:8880?path=%2FWedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&security=none&encryption=none&host=wedbaz.websitexp.ddns-ip.net.&type=httpupgrade#%40V2RAYROZ
