@@ -18,3 +18,6 @@ vless://31b77383-79f0-4cfa-9cfe-30e6a1d2c6f3@www.speedtest.net:8880?path=%2FWedB
 
 
 vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@162.159.10.162:2086?path=%2FTelegram%40WedbazTelsecurity&security=&encryption=none&host=5-55sfjslf.ifenxiang.cfd&type=ws&sni=5-55sfjslf.ifenxiang.cfd#%40V2RAYROZ
+
+
+vless://3058e698-61fd-4d12-95bc-f1fe4c071642@104.21.46.81:443?path=%2FWR5A7Ug0BgqU4kju%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hoZori.Ir#%40V2RAYROZ
